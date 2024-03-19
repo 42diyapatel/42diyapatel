@@ -1,8 +1,6 @@
 # Diya H. Patel
 
 - **Email:** 42diyapatel@gmail.com
-- **Phone:** (647)-547-3492
-- **GitHub:** [github.com/diyapatel42](https://github.com/diyapatel42)
 - **LinkedIn:** [linkedin.com/in/42diyapatel](https://www.linkedin.com/in/42diyapatel)
 
 ## Education
